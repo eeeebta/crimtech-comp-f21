@@ -1,52 +1,52 @@
 ===Replace the answers in the (parentheses)!===
 
 My name is:
-(name)
+(Ibta)
 
 My preferred email is:
-(email)
+(ichowdhury@college.harvard.edu)
 
 My GitHub username is:
-(i_aint_afraid_of_no_ghost)
+(eeeebta)
 
 My class year is:
-(2022 | 2023 | 2024 | 2025)
+(2025)
 
 I'm (planning on) concentrating in:
-(concentration)
+(Bioengineering)
 
 I'm living in:
-(house)
+(Matthews)
 
 My favorite food/cuisine is:
-(toothpaste/antarctican)
+(asian or mexican)
 
 My favorite HUDS food is:
-(RICEEEEEEEEE)
+(huds cookies >> every other food item in all of cambridge)
 
 My favorite movie is:
-(gone with the wind)
+(finding nemo)
 
 Things that I enjoy doing at home include:
-(making dresses out of curtains - any Enchanted fans here?)
+(sleep, cooking/baking, video games)
 
 Things that I enjoy doing on campus include:
-(going to CVS three times a day)
+(procrastinating psets, sleeping, studying, sitting in cabot for the ac)
 
 Before Crimson Tech, I've coded:
-(i've never coded | during classes/hackathons | during jobs/internships | something else: ____ )
+(during classes/hackathons, jobs/internships/research)
 
 I decided to comp Crimtech because:
-(olivia and max seemed REALLY cool at the open house)
+(i think it'll be fun to join the crimson in not only the journalism side, but also the tech side! also, i kind of want to do something other than just C++ programming for a semester)
 
 What I hope to get out of the comp is:
-(new friends, new tech skills, crispy chicken fingers)
+(new friends, building my previous skills in a larger professional setting, going to fun socials :))
 
 Ideas I have for making the comp more helpful or fun include:
-(max giving everyone $10,000 when they finish a lab)
+(socials! maybe also extending those socials to other groups or mixer events with other boards or clubs related to STEM)
 
 A song that I would like added to the official Crimtech Comp Fall 2021 Playlist is:
-(turn down for what)
+(GOLD by BROCKHAMPTON)
 
 Questions or concerns I have about the comp, school, or life in general are:
-(42)
+(No questions!)
